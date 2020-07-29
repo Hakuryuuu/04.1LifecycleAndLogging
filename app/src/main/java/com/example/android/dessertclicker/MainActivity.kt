@@ -40,7 +40,7 @@ class MainActivity : AppCompatActivity() {
     override fun onStart() {
         super.onStart()
 
-        Timber.i("onCreate called")
+        Timber.i("onStart called")
 
     }
 
