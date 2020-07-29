@@ -18,7 +18,7 @@
     package="com.example.android.dessertclicker">
 
     <application
-        
+
         android:name=".ClickerApplication"
 
         android:allowBackup="true"
